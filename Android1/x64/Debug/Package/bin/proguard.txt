@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:12
+-keep class com.Android1.Android1 { <init>(...); }
+
