@@ -1,0 +1,17 @@
+C:\Users\gsa\source\repos\Lesson5\Lesson5Task1\obj\Debug\net6.0\Lesson5Task1.csproj.AssemblyReference.cache
+C:\Users\gsa\source\repos\Lesson5\Lesson5Task1\obj\Debug\net6.0\Lesson5Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsa\source\repos\Lesson5\Lesson5Task1\obj\Debug\net6.0\Lesson5Task1.AssemblyInfoInputs.cache
+C:\Users\gsa\source\repos\Lesson5\Lesson5Task1\obj\Debug\net6.0\Lesson5Task1.AssemblyInfo.cs
+C:\Users\gsa\source\repos\Lesson5\Lesson5Task1\obj\Debug\net6.0\Lesson5Task1.csproj.CoreCompileInputs.cache
+C:\Users\gsa\source\repos\Lesson5\Lesson5Task1\bin\Debug\net6.0\Lesson5Task1.exe
+C:\Users\gsa\source\repos\Lesson5\Lesson5Task1\bin\Debug\net6.0\Lesson5Task1.deps.json
+C:\Users\gsa\source\repos\Lesson5\Lesson5Task1\bin\Debug\net6.0\Lesson5Task1.runtimeconfig.json
+C:\Users\gsa\source\repos\Lesson5\Lesson5Task1\bin\Debug\net6.0\Lesson5Task1.dll
+C:\Users\gsa\source\repos\Lesson5\Lesson5Task1\bin\Debug\net6.0\ref\Lesson5Task1.dll
+C:\Users\gsa\source\repos\Lesson5\Lesson5Task1\bin\Debug\net6.0\Lesson5Task1.pdb
+C:\Users\gsa\source\repos\Lesson5\Lesson5Task1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gsa\source\repos\Lesson5\Lesson5Task1\obj\Debug\net6.0\Lesson5Task1.csproj.CopyComplete
+C:\Users\gsa\source\repos\Lesson5\Lesson5Task1\obj\Debug\net6.0\Lesson5Task1.dll
+C:\Users\gsa\source\repos\Lesson5\Lesson5Task1\obj\Debug\net6.0\ref\Lesson5Task1.dll
+C:\Users\gsa\source\repos\Lesson5\Lesson5Task1\obj\Debug\net6.0\Lesson5Task1.pdb
+C:\Users\gsa\source\repos\Lesson5\Lesson5Task1\obj\Debug\net6.0\Lesson5Task1.genruntimeconfig.cache
