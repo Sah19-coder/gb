@@ -1,0 +1,11 @@
+﻿<AssemblyExplorer>
+  <Assembly Path="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll" />
+  <Assembly Path="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.dll" />
+  <Assembly Path="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.Core.dll" />
+  <Assembly Path="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.Xml.dll" />
+  <Assembly Path="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.Data.dll" />
+  <Assembly Path="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.Web.dll" />
+  <Assembly Path="C:\Users\gsa\source\repos\Lesson6\Lesson6Task1\bin\Release\net6.0\Lesson6Task1.exe" />
+  <ProjFile Path="C:\Users\gsa\source\repos\Lesson7\Lesson6Task1\Lesson6Task1.csproj" />
+  <Assembly Path="C:\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.0\System.Runtime.dll" />
+</AssemblyExplorer>
